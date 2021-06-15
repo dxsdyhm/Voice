@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">音量调节</string>
+    <string name="current_volume">当前音量:</string>
+</resources>
